@@ -1,0 +1,29 @@
+body{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    background-color:rgba(17, 17, 17, 0.952);
+    color:blanchedalmond;
+
+}
+#myh1{
+    font-family:arial;
+    font-size:4rem;
+    
+}
+#container{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    border:5px solid;
+    border-radius:50px;
+    padding:30px;
+    
+}
+
+#display{
+    font-size:5rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow:2px 2px 5px rgb(124, 114, 114);
+    margin-bottom:25px;
+}
